@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-redis-example",
+  "version": "0.0.1",
+  "description": "Sample app using nodejs + redis",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "redis"
+  ],
+  "author": "Gustavo Henrique",
+  "license": "MIT",
+  "dependencies": {
+    "hiredis": "^0.1.17",
+    "journey": "^0.4.0-pre-3",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}

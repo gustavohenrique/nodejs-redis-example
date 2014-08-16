@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-redis-example-client",
+  "private": true,
+  "dependencies": {
+    "semantic": "~0.19.0"
+  },
+  "devDependencies": {}
+}
